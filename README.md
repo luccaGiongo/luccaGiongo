@@ -2,7 +2,7 @@
 
 - 📚 Tecnológo em Sistemas para Internet - IFFAR;
 - 👨‍💻 Atualmente trabalhando como Desenvolvedor Cobol;
-- 📘 Estudante das tecnologias voltadas para Web (CSS3, HTML5, JavaScript...) - "Alguns Projetos Realizados";
+- 📘 Estudante das tecnologias voltadas para Web (CSS3, HTML5, JavaScript(React)... - "Alguns Projetos Realizados";
 - 🛠️ Inglês Básico/Intermediário;
 - 🙌 Entusiasta e estudante de desenvolvimento humano;
 
